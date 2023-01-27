@@ -1,4 +1,4 @@
-**Coinora** is an ERC20 token has been ceated and deployed on Ethereum.
+**Coinora** is an ERC20 token that has been created and deployed on Ethereum.
 
 **ERC** stands for **Ethereum Request for Comment**. Essentially, they are standards that have been approved by the community and are used to convey technical requirements and specifications for certain use cases.
 
